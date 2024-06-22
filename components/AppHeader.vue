@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav class="flex justify-between mb-10">
-      <h1>Ore-Ofe Oginni</h1>
+      <h1>Grace Oginni</h1>
       <div class="flex gap-3">
         <UButton>
           <nuxt-link to="/">Linkedin</nuxt-link>

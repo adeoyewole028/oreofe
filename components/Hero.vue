@@ -8,7 +8,7 @@
           alt="Hero image"
         />
         <UBadge class="uppercase" color="white" size="lg" variant="solid"
-          >Ore-Ofe Oginni Gift</UBadge
+          >Grace Oginni</UBadge
         >
 
         <h2 class="font-bold text-4xl md:text-7xl lg:text-8xl">Product Manager</h2>
