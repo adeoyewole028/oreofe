@@ -11,7 +11,9 @@
           >Grace Oginni</UBadge
         >
 
-        <h2 class="font-bold text-4xl md:text-7xl lg:text-8xl">Product Manager</h2>
+        <h2 class="font-bold text-4xl md:text-7xl lg:text-8xl">
+          Product Manager
+        </h2>
       </div>
     </div>
     <div class="flex flex-col justify-end items-start">
@@ -25,14 +27,9 @@
       <div class="flex gap-3 mt-3">
         <div>
           <UButton>
-            <a href="https://www.linkedin.com/in/ore-oginni-0b1b3b1b3/">
-              Linkedin
-            </a>
-          </UButton>
-        </div>
-        <div>
-          <UButton>
-            <a href="https://www.linkedin.com/in/ore-oginni-0b1b3b1b3/">
+            <a
+              href="https://www.linkedin.com/in/oginni-grace-06b9a6163/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            >
               Linkedin
             </a>
           </UButton>

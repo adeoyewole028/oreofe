@@ -1,12 +1,15 @@
 <template>
   <div>
     <footer class="flex justify-between my-10">
-      <h1>Ore-Ofe Oginni</h1>
+      <NuxtLink to="/">Grace Oginni</NuxtLink>
       <div>
-        <p>&copy; {{ currentYear }} Adegboyega</p>
-      </div>
-      <div class="flex gap-3">
-     
+        <NuxtLink
+          to="https://adegboyega-portfolio.netlify.app/"
+          target="_blank"
+        >
+          &copy; {{ currentYear }}
+          <span> Adegboyega </span>
+        </NuxtLink>
       </div>
     </footer>
   </div>
