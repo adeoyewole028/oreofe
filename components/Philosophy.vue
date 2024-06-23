@@ -13,7 +13,7 @@
           management journey. I'm excited to keep learning, collaborating, and
           building products that make a positive impact
         </p>
-        <UButton> Learn more </UButton>
+        <!-- <UButton> Learn more </UButton> -->
       </div>
       <div>
         <img

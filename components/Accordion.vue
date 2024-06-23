@@ -1,18 +1,11 @@
 <script setup lang="ts">
 const items = [
   {
-    label: "Product Manager",
+    label: "Product Manager - Giftawish",
     icon: "i-heroicons-rectangle-stack",
+    content:
+      "- Responsible for planning sprint for the design and development team - Responsible for writing User stories and user journeys to improve the product team's understanding of required features and functionalities - Work with cross functional teams to enhance a good user experience for the customers. - Worked with the marketing team to facilitate a great product marketing. -Assist the product lead to deliver good product services to our customers to facilitate a good user experience",
     defaultOpen: true,
-    content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.",
-  },
-
-  {
-    label: "Product Manager",
-    icon: "i-heroicons-rectangle-stack",
-    content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.",
   },
 ];
 </script>

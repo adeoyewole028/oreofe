@@ -6,7 +6,7 @@
       >
     </div>
     <h1 class="text-3xl md:text-5xl font-bold">Experience</h1>
-    <p>my professional journey, a role or two roles at a time</p>
+    <p>My professional journey.</p>
     <Accordion />
   </div>
 </template>
