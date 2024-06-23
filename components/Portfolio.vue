@@ -44,10 +44,19 @@
           </div>
         </div>
         <div class="mt-3 p-5">
-          <h3 class="font-semibold text-xl">{{ port.title }}</h3>
-          <p class="font-thin dark:text-gray-400 text-white">
-            {{ port.description }}
-          </p>
+          <NuxtLink
+            :to="port.link"
+            target="_blank"
+            class="font-semibold text-xl"
+            >{{ port.title }}</NuxtLink
+          >
+          <NuxtLink
+            :to="port.docLink"
+            target="_blank"
+            class="font-thin dark:text-gray-400 text-white"
+          >
+            <p>{{ port.description }}</p>
+          </NuxtLink>
         </div>
       </div>
     </div>
