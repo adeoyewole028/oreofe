@@ -18,7 +18,7 @@ const skills = [
   {
     id: 1,
     title: "User Research",
-    description: "Research what user want and need to be able to complete",
+    description: "Gathering feedbacks from users  to understand their pain-points.",
     icon: "i-heroicons-user-group",
   },
   {

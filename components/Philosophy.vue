@@ -6,19 +6,24 @@
 
         <p class="text-balance">
           I believe that Product management is more than building and managing
-          products—it is about understanding what users needs, aligning with the
-          business goals and working with a supportive team. My product approach
-          combines clear communication with empathy, placing the user at the
-          heart of every decision. This is just the beginning of my product
-          management journey. I'm excited to keep learning, collaborating, and
-          building products that make a positive impact
+          products — it is about understanding what users needs, aligning with
+          the business goals and working with a supportive team.
+        </p>
+        <p class="text-balance">
+          My product approach combines clear communication with empathy, placing
+          the user at the heart of every decision. This is just the beginning of
+          my product management journey.
+        </p>
+        <p class="text-balance">
+          I'm excited to keep learning, collaborating, and building products
+          that make a positive impact.
         </p>
         <!-- <UButton> Learn more </UButton> -->
       </div>
       <div>
         <img
-          class="rounded-md max-h-96 w-full object-fit"
-          src="/img/abby.jpg"
+          class="rounded-md max-h-[600px] w-full object-fit"
+          src="/img/grace.jpg"
           alt="Hero image"
         />
       </div>
