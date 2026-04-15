@@ -1,8 +1,8 @@
 <template>
   <div class="space-y-5">
     <h1 class="text-3xl md:text-5xl font-bold">Skills</h1>
-    <div class="grid lg:grid-cols-3 gap-5 w-full">
-      <div v-for="skill in skills" :key="skill.id">
+    <div class="grid w-full auto-rows-fr gap-4 sm:grid-cols-2 xl:grid-cols-3">
+      <div v-for="skill in skills" :key="skill.id" class="h-full">
         <Card
           :title="skill.title"
           :description="skill.description"
