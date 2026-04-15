@@ -66,13 +66,13 @@ export default defineComponent({
           link: "https://www.linkedin.com/in/oginni-grace-06b9a6163?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
           icon: "i-heroicons-linkedin",
         },
-        {
-          id: 3,
-          title: "Twitter",
-          name: "@abby_oreofee",
-          link: "https://twitter.com/abby_oreofee",
-          icon: "i-heroicons-twitter",
-        },
+        // {
+        //   id: 3,
+        //   title: "Twitter",
+        //   name: "@abby_oreofee",
+        //   link: "https://twitter.com/abby_oreofee",
+        //   icon: "i-heroicons-twitter",
+        // },
       ],
     };
   },

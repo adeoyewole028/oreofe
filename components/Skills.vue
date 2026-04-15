@@ -19,7 +19,8 @@ const skills = [
   {
     id: 1,
     title: "User Research",
-    description: "Gathering feedbacks from users  to understand their pain-points.",
+    description:
+      "Gathering feedbacks from users  to understand their pain-points.",
     icon: "i-heroicons-user-group",
     links: [
       {
@@ -49,7 +50,7 @@ const skills = [
     links: [
       {
         label: "Prototyping",
-        url: "https://www.figma.com/design/F9znkGD1PknjKzuKbLiE8n/giftawish?node-id=0-1&t=bEjBdoFvtAipHnNT-1",
+        url: "https://www.figma.com/design/F9znkGD1PknjKzuKbLiE8n/giftawish?node-id=12-2&t=1jNt74k2DceOn8kb-1",
       },
     ],
   },
@@ -63,12 +64,13 @@ const skills = [
   {
     id: 4,
     title: "Project Management",
-    description: "Coordinate planning, execution, and delivery across the project lifecycle",
+    description:
+      "Coordinate planning, execution, and delivery across the project lifecycle",
     icon: "i-heroicons-cog",
     links: [
       {
         label: "Project Management",
-        url: "https://app.clickup.com/9005180305/v/li/900502540523",
+        url: "https://sharing.clickup.com/9005180305/l/h/6-901503703230-1/917e4eff4d34ab3",
       },
     ],
   },
