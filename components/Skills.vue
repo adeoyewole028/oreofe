@@ -53,15 +53,15 @@ const skills = [
       },
     ],
   },
+  // {
+  //   id: 4,
+  //   title: "User Testing",
+  //   description: "Test the product with users to see if it meets their needs",
+  //   icon: "i-heroicons-user-plus",
+  //   links: [],
+  // },
   {
     id: 4,
-    title: "User Testing",
-    description: "Test the product with users to see if it meets their needs",
-    icon: "i-heroicons-user-plus",
-    links: [],
-  },
-  {
-    id: 5,
     title: "Project Management",
     description: "Coordinate planning, execution, and delivery across the project lifecycle",
     icon: "i-heroicons-cog",
@@ -73,7 +73,7 @@ const skills = [
     ],
   },
   {
-    id: 6,
+    id: 5,
     title: "Product Strategy",
     description:
       "Create a strategy for the product that aligns with the business goals",
@@ -86,7 +86,7 @@ const skills = [
     ],
   },
   {
-    id: 7,
+    id: 6,
     title: "Road mapping",
     description:
       "Plan delivery milestones and priorities to keep the product moving forward",

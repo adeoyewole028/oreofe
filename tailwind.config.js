@@ -1,5 +1,4 @@
 const { green, grass, mauve } = require("@radix-ui/colors");
-const { addIconSelectors } = require("@iconify/tailwind");
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./**/*.vue"],
@@ -26,5 +25,4 @@ module.exports = {
       },
     },
   },
-  plugins: [addIconSelectors(["mdi", "mdi-light"])],
 };
