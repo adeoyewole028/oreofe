@@ -4,7 +4,7 @@
       <div class="text-start space-y-5">
         <img
           class="max-h-52 rounded-full object-fit"
-          src="/img/grace.jpg"
+          src="/img/grace.jpeg"
           alt="Hero image"
         />
         <UBadge class="uppercase" color="white" size="lg" variant="solid"

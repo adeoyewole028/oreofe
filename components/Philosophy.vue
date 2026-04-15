@@ -20,13 +20,13 @@
         </p>
         <!-- <UButton> Learn more </UButton> -->
       </div>
-      <div>
+      <!-- <div>
         <img
           class="rounded-md max-h-[600px] w-full object-fit"
           src="/img/grace.jpg"
           alt="Hero image"
         />
-      </div>
+      </div> -->
     </div>
   </div>
 </template>

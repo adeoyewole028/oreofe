@@ -2,7 +2,7 @@
   <div>
     <footer class="flex justify-between my-10">
       <NuxtLink to="/">Grace Oginni</NuxtLink>
-      <div>
+      <!-- <div>
         <NuxtLink
           to="https://adegboyega-portfolio.netlify.app/"
           target="_blank"
@@ -10,7 +10,7 @@
           &copy; {{ currentYear }}
           <span> Adegboyega </span>
         </NuxtLink>
-      </div>
+      </div> -->
     </footer>
   </div>
 </template>
